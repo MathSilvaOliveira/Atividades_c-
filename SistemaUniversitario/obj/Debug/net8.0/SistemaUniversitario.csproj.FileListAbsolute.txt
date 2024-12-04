@@ -1,0 +1,14 @@
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\bin\Debug\net8.0\SistemaUniversitario.exe
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\bin\Debug\net8.0\SistemaUniversitario.deps.json
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\bin\Debug\net8.0\SistemaUniversitario.runtimeconfig.json
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\bin\Debug\net8.0\SistemaUniversitario.dll
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\bin\Debug\net8.0\SistemaUniversitario.pdb
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.AssemblyInfoInputs.cache
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.AssemblyInfo.cs
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.csproj.CoreCompileInputs.cache
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.dll
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\refint\SistemaUniversitario.dll
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.pdb
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\SistemaUniversitario.genruntimeconfig.cache
+C:\Users\matheus.oliveira\source\repos\SistemaUniversitario\obj\Debug\net8.0\ref\SistemaUniversitario.dll
