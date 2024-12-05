@@ -1,0 +1,6 @@
+@ApiComBanco_HostAddress = http://localhost:5108
+
+GET {{ApiComBanco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
