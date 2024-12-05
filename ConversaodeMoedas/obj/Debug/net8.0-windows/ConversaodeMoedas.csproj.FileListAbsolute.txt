@@ -1,0 +1,16 @@
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\bin\Debug\net8.0-windows\ConversaodeMoedas.exe
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\bin\Debug\net8.0-windows\ConversaodeMoedas.deps.json
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\bin\Debug\net8.0-windows\ConversaodeMoedas.runtimeconfig.json
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\bin\Debug\net8.0-windows\ConversaodeMoedas.dll
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\bin\Debug\net8.0-windows\ConversaodeMoedas.pdb
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.Form1.resources
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.csproj.GenerateResource.cache
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.AssemblyInfoInputs.cache
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.AssemblyInfo.cs
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.dll
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\refint\ConversaodeMoedas.dll
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.pdb
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ConversaodeMoedas.genruntimeconfig.cache
+C:\Users\matheus.oliveira\source\repos\ConversaodeMoedas\obj\Debug\net8.0-windows\ref\ConversaodeMoedas.dll
