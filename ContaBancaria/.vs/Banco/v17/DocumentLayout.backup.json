@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|c:\\users\\matheus.oliveira\\source\\repos\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|c:\\users\\matheus.oliveira\\source\\repos\\banco\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|c:\\users\\matheus.oliveira\\source\\repos\\banco\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|solutionrelative:contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|c:\\users\\matheus.oliveira\\source\\repos\\banco\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|solutionrelative:contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|c:\\users\\matheus.oliveira\\source\\repos\\banco\\containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C545753-5D7B-444A-B07C-79CD49BE462A}|Banco.csproj|solutionrelative:containvestimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\ContaCorrente.cs",
+              "RelativeToolTip": "ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:18:45.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\ContaPoupanca.cs",
+              "RelativeToolTip": "ContaPoupanca.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:13:41.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaInvestimento.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\ContaInvestimento.cs",
+              "RelativeDocumentMoniker": "ContaInvestimento.cs",
+              "ToolTip": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\ContaInvestimento.cs",
+              "RelativeToolTip": "ContaInvestimento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:12:45.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta.cs",
+              "ToolTip": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\Conta.cs",
+              "RelativeToolTip": "Conta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:53:59.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matheus.oliveira\\source\\repos\\Banco\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:52:37.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
