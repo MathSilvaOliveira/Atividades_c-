@@ -1,0 +1,14 @@
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\bin\Debug\net8.0\Desafio_produtos.exe
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\bin\Debug\net8.0\Desafio_produtos.deps.json
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\bin\Debug\net8.0\Desafio_produtos.runtimeconfig.json
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\bin\Debug\net8.0\Desafio_produtos.dll
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\bin\Debug\net8.0\Desafio_produtos.pdb
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.AssemblyInfoInputs.cache
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.AssemblyInfo.cs
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.csproj.CoreCompileInputs.cache
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.dll
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\refint\Desafio_produtos.dll
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.pdb
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\Desafio_produtos.genruntimeconfig.cache
+C:\Users\matheus.oliveira\source\repos\Desafio_produtos\obj\Debug\net8.0\ref\Desafio_produtos.dll

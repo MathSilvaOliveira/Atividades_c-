@@ -1,0 +1,5 @@
+Teclado, 8, 45,89
+Mouse, 15, 68,92
+Monitor, 6, 1120,19
+Headset, 23, 59,59
+Mousepad, 40, 20,39
